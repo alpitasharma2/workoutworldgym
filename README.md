@@ -1,1 +1,1 @@
-# gym_managementSystem
+It is a gym management system.
